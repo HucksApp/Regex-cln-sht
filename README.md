@@ -7,8 +7,8 @@ specify an actual character or set of characters in the sequence
 
 char symbol     |     Description and usage
 ----------------|---------------------------
-range -> `[]`   | all (*charN minus char1*) characters between the iteratable start and stop  `[<char1> - <charN>]`
-dot -> `.`      | any character including symbols
+range -> `[]`   | all  characters between the iteratable start and stop  `[<char1> - <charN>]` eg [a-c] -> a, b, c
+dot -> `.`      | any (*one*) character including symbols a-z 0-9 A-Z & . ' " etc
 group -> `()`   | grouped characters between () are affected by same sequence specifier
 digit -> `\d`   | any (*one*) digit
 word -> `\w`    | any (*one*) character (character useable in words)
