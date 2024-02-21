@@ -7,7 +7,7 @@ specify an actual character or set of characters in the sequence
 
 char symbol     |     Description and usage
 ----------------|---------------------------
-range -> `[]`   | specify characters or character range [<char1> - <charN>]
+range -> `[]`   | specify characters or character range `[<char1> - <charN>]`
 dot -> `.`      | any character including non Alphanumeric
 group -> `()`   | grouped characters between () are affected by a same sequence specifier
 digit -> `\d`   | all digit
