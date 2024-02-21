@@ -1,8 +1,8 @@
 # Regex-clean-sheet🔎
 
-## Character sequences 
+## Character sequences   🅰️ 🅱️
 
-### Description 🅰️ 🅱️
+### Description 
 specify an actual character or set of characters in the sequence
 
 char symbol     |     char symbol meaning and usage
@@ -18,9 +18,9 @@ nor -> `^`      | exact beginning of string
 dollar -> `$`   | exact end of the string
 
 
-## Sequence Quantifier 
+## Sequence Quantifier   🧮
 
-### Description 🧮
+### Description 
 specify the quantity of character of the sequence
 
 char symbol                  |     char symbol meaning and usage
