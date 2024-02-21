@@ -5,8 +5,8 @@
 ### Description 🅰️ 🅱️
 specify an actual character or set of characters in the sequence
 
-char symbol     |     Description and usage
-----------------|---------------------------
+char symbol     |     char symbol meaning and usage
+----------------|---------------------------------------------
 range -> `[]`   | all  characters between the iteratable start and stop  `[<char1> - <charN>]` eg [a-c] -> a, b, c
 dot -> `.`      | any (*one*) character including symbols a-z 0-9 A-Z & . ' " etc
 group -> `()`   | grouped characters between () are affected by same sequence specifier
@@ -23,8 +23,8 @@ dollar -> `$`   | exact end of the string
 ### Description 🧮
 specify the quantity of character of the sequence
 
-char symbol          |     Description and usage
----------------------|---------------------------
+char symbol          |     char symbol meaning and usage
+---------------------|-----------------------------------------
 range -> `{}`        | specify character quntity between start and stop , exact stop, or start and infinity as follows -> `{<start>, <stop>}`,  -> `{<stop>}`, -> `{start, }` 
 ? ->  `?`            | any character quantity between 0 and 1 (0 or 1)
 asteric -> `*`       | any character quantity between 0 and infinity (0 or more)
