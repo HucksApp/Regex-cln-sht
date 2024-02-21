@@ -8,7 +8,7 @@ specify an actual character or set of characters in the sequence
 char symbol     |     Description and usage
 ----------------|---------------------------
 range -> `[]`   | all characters between the iteratable start and stop  `[<char1> - <charN>]`
-dot -> `.`      | any character including non Alphanumeric
+dot -> `.`      | any character including symbols
 group -> `()`   | grouped characters between () are affected by same sequence specifier
 digit -> `\d`   | all digit
 word -> `\w`    | all character (character useable in words)
