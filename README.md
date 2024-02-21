@@ -2,7 +2,7 @@
 
 ## Character sequences 🅰️ 🅱️
 
-# Description
+### Description
 specify an actual character or set of characters in the sequence
 
 char symbol     |     Description and usage
@@ -18,15 +18,15 @@ nor -> `^`      | exact beginning of string
 dollar -> `$`   | exact end of the string
 
 
-## sequence Quantifier 🧮
+## Sequence Quantifier 🧮
 
-# Description
+### Description
 specify the quantity of character of the sequence
 
-char symbol     |     Description and usage
-----------------|---------------------------
-range -> `{}`   | specify character quntity between start and stop , exact stop, or start and infinity as follows -> `{<start>, <stop>}`,  -> `{<stop>}`, -> `{start, }` 
-? ->  `?`       | any character quantity between 0 and 1 (0 or 1)
-asteric -> `*`  | any character quantity between 0 and infinity (0 or more)
-plus -> `+`     | any character quantity between 1 and infinity (1 or more)
+char symbol          |     Description and usage
+---------------------|---------------------------
+range -> `{}`        | specify character quntity between start and stop , exact stop, or start and infinity as follows -> `{<start>, <stop>}`,  -> `{<stop>}`, -> `{start, }` 
+? ->  `?`            | any character quantity between 0 and 1 (0 or 1)
+asteric -> `*`       | any character quantity between 0 and infinity (0 or more)
+plus -> `+`          | any character quantity between 1 and infinity (1 or more)
 
