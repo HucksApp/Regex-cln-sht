@@ -1,6 +1,6 @@
 # Regex-clean-sheet 🔎
 
-##Character sequences 🅰️ 🅱️
+## Character sequences 🅰️ 🅱️
 
 # Description
 specify an actual character or set of characters in the sequence
