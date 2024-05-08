@@ -14,7 +14,7 @@ digit -> `\d`   | any (*one*) digit
 word -> `\w`    | any (*one*) character (character useable in words)
 space -> `\s`   | any (*one*) white space character
 tab -> `\t`     | tab (*one*) character
-nor -> `^`      | exact beginning of string
+nor -> `^`      | exact beginning of string or ***NOT***
 dollar -> `$`   | exact end of the string
 
 
