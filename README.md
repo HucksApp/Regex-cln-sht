@@ -1,4 +1,4 @@
-# Regex-clean-sheet🔎
+# Regular Expression clean sheet🔎
 
 ## Character sequences   🅰️ 🅱️
 
@@ -26,7 +26,7 @@ specify the quantity of character of the sequence
 char symbol                  |     char symbol meaning and usage
 -----------------------------|-----------------------------------------
 range -> `{}`                | specify character quntity between start and stop , exact stop, or start and infinity as follows `{<start>, <stop>}`, `{<stop>}`, `{start, }` 
-? ->  `?`                    | character sequence quantity between 0 and 1 (0 or 1)
-asteric -> `*`               | character sequence quantity between 0 and infinity (0 or more)
+? ->  `?`                    | character sequence quantity between 0 and 1 (none or 1)
+asteric -> `*`               | character sequence quantity between 0 and infinity (none or more)
 plus -> `+`                  | character sequence quantity between 1 and infinity (1 or more)
 
