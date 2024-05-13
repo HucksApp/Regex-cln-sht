@@ -1,5 +1,7 @@
 # Regular Expression clean sheet🔎
 
+![Regex-Cheat-Sheet](https://github.com/HucksApp/Regex-cln-sht/assets/58187974/a45c67d3-f24e-4fd5-991b-29788d6686f3)
+
 ## Character sequences   🅰️ 🅱️
 
 ### Description 
